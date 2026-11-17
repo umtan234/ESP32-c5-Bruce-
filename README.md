@@ -41,3 +41,8 @@ I2C SCL: 5
 Serial interface to other devices (Flipper)
 Serial Tx: 11
 Serial Rx: 12
+
+
+![PCB](IMG_20261117_185711_251.jpg)
+
+![diddy PCB ](IMG_20261117_185711_022.jpg)
