@@ -42,7 +42,10 @@ Serial interface to other devices (Flipper)
 Serial Tx: 11
 Serial Rx: 12
 
-Diddy(1)
+
 ![PCB](IMG_20261117_185711_251.jpg)
-Epstein (1)
+
+
+
+
 ![diddy PCB ](IMG_20261117_185711_022.jpg)
