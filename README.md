@@ -50,7 +50,7 @@ Use these GPIO assignments when adding physical buttons:
 | Select | GPIO 28 |
 | Next | GPIO 1 |
 
-## Touchscreen configuration
+## screen configuration
 
 For an ST7789 1.69 inch TFT display, use the following SPI connections. In this configuration, GPIO 0 and GPIO 28 remain available for CC1101/NRF24 use.
 
