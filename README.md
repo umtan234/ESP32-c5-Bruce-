@@ -57,7 +57,7 @@ For an ST7789 1.69 inch TFT display, use the following SPI connections. In this 
 | Device | SCK | MISO | MOSI | CS | IRQ |
 |:--|:--:|:--:|:--:|:--:|:--:|
 | Display | GPIO 6 | GPIO 2 | GPIO 7 | GPIO 23 | — |
-| XPT2046 touch | GPIO 6 | GPIO 2 | GPIO 7 | GPIO 1 | — |
+
 
 ## Other peripherals
 
