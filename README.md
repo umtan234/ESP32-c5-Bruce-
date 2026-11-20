@@ -86,25 +86,25 @@ For an ST7789 1.69 inch TFT display, use the following SPI connections. In this 
 ## PCB photos
 
 <p align="center">
-  <img src="IMG_20261117_185711_251.jpg" alt="Custom ESP32-C5 PCB" width="720">
+  <img src="images/pcb-photo-front.jpg" alt="PCB photo - front" width="720">
 </p>
 
-<p align="center"><strong>Custom board</strong></p>
-
-<p align="center">
-  <img src="IMG_20261117_185711_022.jpg" alt="Custom PCB detail" width="720">
-</p>
-
-<p align="center"><strong>PCB detail</strong></p>
+<p align="center"><strong>PCB photo — front</strong></p>
 
 <p align="center">
-  <img src="images/pcb-3d-front.jpg" alt="PCB 3D front" width="720">
+  <img src="images/pcb-photo-back.jpg" alt="PCB photo - back" width="720">
 </p>
-<p align="center"><strong>PCB 3D — front</strong></p>
+
+<p align="center"><strong>PCB photo — back</strong></p>
+
 <p align="center">
-  <img src="images/pcb-3d-back.jpg" alt="PCB 3D back" width="720">
+  <img src="images/pcb-3d-top.png" alt="PCB 3D - top" width="720">
 </p>
-<p align="center"><strong>PCB 3D — back</strong></p>
+<p align="center"><strong>PCB 3D — top</strong></p>
+<p align="center">
+  <img src="images/pcb-3d-bottom.png" alt="PCB 3D - bottom" width="720">
+</p>
+<p align="center"><strong>PCB 3D — bottom</strong></p>
 
 ## Charging
 
