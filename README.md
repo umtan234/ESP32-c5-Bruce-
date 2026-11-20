@@ -93,6 +93,22 @@ For an ST7789 1.69 inch TFT display, use the following SPI connections. In this 
 
 <p align="center"><strong>PCB detail</strong></p>
 
+<p align="center">
+  <img src="images/pcb-3d-front.jpg" alt="PCB 3D front" width="720">
+</p>
+<p align="center"><strong>PCB 3D — front</strong></p>
+<p align="center">
+  <img src="images/pcb-3d-back.jpg" alt="PCB 3D back" width="720">
+</p>
+<p align="center"><strong>PCB 3D — back</strong></p>
+
+## Charging
+
+- On-board LiPo battery charging via USB-C
+- Battery pads: Bat+ / Bat-
+- Charge status LEDs: CHRG (charging) / FULL (charge complete)
+- Power switch (PWR) for battery on/off
+
 ## PCB Files
 
 Manufacturing files for this board are in [`pcb/`](pcb/):
