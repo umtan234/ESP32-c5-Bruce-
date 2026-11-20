@@ -93,6 +93,19 @@ For an ST7789 1.69 inch TFT display, use the following SPI connections. In this 
 
 <p align="center"><strong>PCB detail</strong></p>
 
+## PCB Files
+
+Manufacturing files for this board are in [`pcb/`](pcb/):
+
+| File | Description |
+|---|---|
+| [`Gerber_PCB1.zip`](pcb/Gerber_PCB1.zip) | Gerber + drill files for fabrication |
+| [`BOM_PCB1.csv`](pcb/BOM_PCB1.csv) | Bill of materials |
+| [`PickAndPlace_PCB1.csv`](pcb/PickAndPlace_PCB1.csv) | Pick and place / CPL |
+| [`ProDoc_Board1.epro2`](pcb/ProDoc_Board1.epro2) | EasyEDA Pro source project |
+
+By **HACKTHON (IMRAN)**.
+
 ## Credits
 
 - **Firmware:** [Bruce firmware](https://github.com/brucedevices/firmware) — an open-source project maintained by the Bruce contributors.
