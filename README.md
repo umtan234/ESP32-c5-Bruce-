@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/BruceDevices/firmware/main/media/pictures/bruce_banner.jpg" alt="Bruce firmware banner" width="720">
 </p>
 
+<p align="center">
+  <a href="https://github.com/umtan234/ESP32-c5-Bruce-PCB-/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github" alt="Download Latest Release"></a>
+</p>
+
 <h1 align="center">ESP32-C5 Custom Board — Bruce Pinout Guide</h1>
 
 <p align="center">
